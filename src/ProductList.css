@@ -252,6 +252,7 @@ body {
       max-width: calc(50% - 20px); /* Adjust max-width for 2 cards per row with 20px gap on small screens */
     }
     .navbar {
+        position: fixed;
         flex-direction: column; /* Change flex direction to stack items vertically */
         align-items: center; /* Align items to the center of the container */
       }
