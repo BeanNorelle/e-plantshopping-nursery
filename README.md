@@ -9,7 +9,7 @@ Shopping Cart Page: Displays items in the cart, allows quantity adjustments, and
 
 Project Links
 
-**GitHub Repository:** [https://github.com/BeanNorelle/e-plantShopping](https://github.com/BeanNorelle/e-plantShopping)
+**GitHub Repository:** [https://github.com/BeanNorelle/e-plantShopping](https://github.com/BeanNorelle/e-plantshopping-nursery)
 
 **Live Site:** [https://beannorelle.github.io/e-plantshopping-nursery/](https://beannorelle.github.io/e-plantshopping-nursery/)
 
