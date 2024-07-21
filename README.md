@@ -1,15 +1,17 @@
-# Paradise Nursery Shopping Application
+Paradise Nursery Shopping Application
+Welcome to the Paradise Nursery Shopping Application! This project is an online plant shop developed as part of a Coursera course, designed to showcase a variety of house plants available for purchase.
 
-This is a shopping cart application for an online plant shop developed as part of a Coursera course. The application showcases a variety of house plants available for purchase.
+Features
+Home Page: Contains a welcome message and information about the nursery.
+Product Listing Page: Displays various plant categories.
+Add to Cart Functionality: Allows users to add plants to their shopping cart.
+Shopping Cart Page: Displays items in the cart, allows quantity adjustments, and calculates total costs.
 
-## Features
+Project Links
 
-- Home page with a welcome message and information about the nursery.
-- Product listing page with various plant categories.
-- Add to Cart functionality.
-- Shopping cart page displaying items in the cart, allowing quantity adjustments, and calculating total costs.
+**GitHub Repository:** [https://github.com/BeanNorelle/e-plantShopping](https://github.com/BeanNorelle/e-plantShopping)
 
-## Project Links
+**Live Site:** [https://beannorelle.github.io/e-plantshopping-nursery/](https://beannorelle.github.io/e-plantshopping-nursery/)
+refactor or improve readme doc
 
-- **GitHub Repository:** [https://github.com/ioborin22/coursera-paradise-nursery-shopping-application](https://github.com/ioborin22/coursera-paradise-nursery-shopping-application)
-- **Live Site:** [https://ioborin22.github.io/coursera-paradise-nursery-shopping-application/](https://ioborin22.github.io/coursera-paradise-nursery-shopping-application/)
+Feel free to explore the repository and live site to see the application in action. Contributions and feedback are welcome!
