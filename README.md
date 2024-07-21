@@ -12,6 +12,5 @@ Project Links
 **GitHub Repository:** [https://github.com/BeanNorelle/e-plantShopping](https://github.com/BeanNorelle/e-plantShopping)
 
 **Live Site:** [https://beannorelle.github.io/e-plantshopping-nursery/](https://beannorelle.github.io/e-plantshopping-nursery/)
-refactor or improve readme doc
 
 Feel free to explore the repository and live site to see the application in action. Contributions and feedback are welcome!
