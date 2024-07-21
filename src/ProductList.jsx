@@ -47,7 +47,7 @@ function ProductList({ onViewCartClick }) {
                 <div className="tag">
                     <div className="luxury">
                         <img src="https://cdn.pixabay.com/photo/2020/08/05/13/12/eco-5465432_1280.png" alt="" />
-                        <a href="https://ioborin22.github.io/coursera-paradise-nursery-shopping-application" style={{ textDecoration: 'none' }}>
+                        <a href="https://beannorelle.github.io/e-plantshopping-nursery/" style={{ textDecoration: 'none' }}>
                             <div className="tag_home_link">
                                 <h3 style={{ color: 'white' }}>Paradise Nursery</h3>
                                 <i style={{ color: 'white' }}>Where Green Meets Serenity</i>
